@@ -4,7 +4,7 @@
 #
 Name     : golang-github-codegangsta-cli
 Version  : 71f57d300dd6a780ac1856c005c4b518cfd498ec
-Release  : 2
+Release  : 3
 URL      : https://github.com/codegangsta/cli/archive/71f57d300dd6a780ac1856c005c4b518cfd498ec.tar.gz
 Source0  : https://github.com/codegangsta/cli/archive/71f57d300dd6a780ac1856c005c4b518cfd498ec.tar.gz
 Summary  : No detailed summary available
